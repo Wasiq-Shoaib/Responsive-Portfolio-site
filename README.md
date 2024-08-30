@@ -1,1 +1,1 @@
-# Wasiq-Shoaib-Responsive-portfolio-site
+# Responsive-portfolio-site
